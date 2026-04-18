@@ -1,0 +1,6 @@
+output/
+dl/
+ccache/
+*.img
+*.tar
+*.cpio

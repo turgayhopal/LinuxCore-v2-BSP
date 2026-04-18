@@ -1,0 +1,3 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/OpenNuvoton/buildroot_2024.git
